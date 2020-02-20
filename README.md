@@ -19,7 +19,7 @@ The goal of this asessment is for you to clone a repo, run a server, and make re
 9. Your task is to: 
     - Edit the favoritesData.json file inside of backend/api/mockData to include 3 different catergories (right now it only includes books)
     - On the frontend: use the GET Request provided inside of App.js, display the responseJson in a meaningful and styled way using [Material UI](https://material-ui.com/)
-    - Add your name as the header to your web app
+    - Add your name as the title of your web app
     - Add one interesting feature
 10. Either share access to your repo with @madelinemckune or zip up your project and email it to pigpocketrecruiting@gmail.com
 
