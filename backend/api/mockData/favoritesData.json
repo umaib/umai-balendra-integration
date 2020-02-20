@@ -1,0 +1,18 @@
+{
+  "Books": [{
+      "title": "Harry Potter",
+      "category": "Book",
+      "categoryIcon": "book"
+    },
+    {
+      "title": "Originals",
+      "category": "Book",
+      "categoryIcon": "book"
+    },
+    {
+      "title": "Essentialism",
+      "category": "Book",
+      "categoryIcon": "book"
+    }
+  ]
+}
