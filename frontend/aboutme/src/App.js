@@ -10,6 +10,10 @@ function App() {
     });
     let responseJson = await response.json();
     console.log(responseJson);
+
+    // for(let i=0; i < responseJson.length; i++){
+
+    // }
   }
 
   useEffect(() => {
@@ -20,9 +24,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>Umai Balendra was here!</h1>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        
         <a
           className="App-link"
           href="https://reactjs.org"
