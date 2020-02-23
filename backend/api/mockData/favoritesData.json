@@ -14,5 +14,25 @@
       "category": "Book",
       "categoryIcon": "book"
     }
-  ]
+  ],
+  "Movies": [{
+      "title": "Spiderman Far From Home",
+      "category": "Movie",
+      "categoryIcon": "movie"
+    },
+    {
+      "title": "Jumanji",
+      "category": "Movie",
+      "categoryIcon": "movie"
+    }],
+    "Games": [{
+      "title": "Snakes and Ladders",
+      "category": "Game",
+      "categoryIcon": "game"
+    },
+    {
+      "title": "Uncharted: The Nathan Drake Collection",
+      "category": "Game",
+      "categoryIcon": "game"
+    }]
 }
